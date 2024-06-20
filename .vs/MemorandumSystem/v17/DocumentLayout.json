@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\CDataInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\CDataInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystemDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\MemorandumSystemDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\ChildDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\ChildDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\Cinfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\Cinfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A2 $(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A2 $(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0084 $(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0084 $(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A4 $(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{08C4BB3A-70FE-4641-8DAB-27DC4EA387B4}|MemorandumSystem\\MemorandumSystem.vcxproj|solutionrelative:MemorandumSystem\\MemorandumSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A4 $(  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cinfo.cpp",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\Cinfo.cpp",
+              "RelativeDocumentMoniker": "MemorandumSystem\\Cinfo.cpp",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\Cinfo.cpp",
+              "RelativeToolTip": "MemorandumSystem\\Cinfo.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T06:14:34.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildDlg.cpp",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\ChildDlg.cpp",
+              "RelativeDocumentMoniker": "MemorandumSystem\\ChildDlg.cpp",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\ChildDlg.cpp",
+              "RelativeToolTip": "MemorandumSystem\\ChildDlg.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwEMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T06:13:43.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemorandumSystemDlg.cpp",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystemDlg.cpp",
+              "RelativeDocumentMoniker": "MemorandumSystem\\MemorandumSystemDlg.cpp",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystemDlg.cpp",
+              "RelativeToolTip": "MemorandumSystem\\MemorandumSystemDlg.cpp",
+              "ViewState": "AQIAACMBAAAAAAAAAAAUwDgBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T05:09:29.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemorandumSystem.rc - IDD_ChildDlg - Dialog",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc",
+              "RelativeDocumentMoniker": "MemorandumSystem\\MemorandumSystem.rc",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc - IDD_ChildDlg - Dialog",
+              "RelativeToolTip": "MemorandumSystem\\MemorandumSystem.rc - IDD_ChildDlg - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T05:09:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CDataInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\CDataInterface.cpp",
+              "RelativeDocumentMoniker": "MemorandumSystem\\CDataInterface.cpp",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\CDataInterface.cpp",
+              "RelativeToolTip": "MemorandumSystem\\CDataInterface.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T05:13:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemorandumSystem.rc - IDD_MEMORANDUMSYSTEM_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc",
+              "RelativeDocumentMoniker": "MemorandumSystem\\MemorandumSystem.rc",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc - IDD_MEMORANDUMSYSTEM_DIALOG - Dialog",
+              "RelativeToolTip": "MemorandumSystem\\MemorandumSystem.rc - IDD_MEMORANDUMSYSTEM_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T05:09:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemorandumSystem.rc - IDD_ABOUTBOX - Dialog",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc",
+              "RelativeDocumentMoniker": "MemorandumSystem\\MemorandumSystem.rc",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc - IDD_ABOUTBOX - Dialog",
+              "RelativeToolTip": "MemorandumSystem\\MemorandumSystem.rc - IDD_ABOUTBOX - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T05:48:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemorandumSystem.rc - IDD_DIALOG1 - Dialog",
+              "DocumentMoniker": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc",
+              "RelativeDocumentMoniker": "MemorandumSystem\\MemorandumSystem.rc",
+              "ToolTip": "C:\\Users\\Li Zhejun\\Desktop\\mfc study\\MemorandumSystem\\MemorandumSystem\\MemorandumSystem.rc - IDD_DIALOG1 - Dialog",
+              "RelativeToolTip": "MemorandumSystem\\MemorandumSystem.rc - IDD_DIALOG1 - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T05:47:59.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
